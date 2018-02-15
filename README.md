@@ -37,7 +37,7 @@ OUTPUT: values provided by the c++ program to the simulator
 
 ## Code flow
 
-![alt text][image3]
+![alt text][./images/Screenshot from 2018-02-15 16-14-48.png]
 
 ## Results
 
