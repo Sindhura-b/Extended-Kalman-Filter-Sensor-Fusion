@@ -1,5 +1,5 @@
 # Sensor Fusion and Object Tracking using Extended Kalman Filter
-
+---
 In this project extended kalman filter has been utilized to estimate the state of a moving object of interest with noisy lidar and radar measurements. The developed algorithm is tested on two different different datasets provided in the Udacity's Simulator and experimented till the RMSE values that determine the accuracy of algorithm are below the specified threshold.
 
 [//]: # (Image References)
